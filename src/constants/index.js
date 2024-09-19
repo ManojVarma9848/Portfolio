@@ -50,16 +50,16 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
   {
-    title: "Meesho-Inspired E-Commerce Platform",
+    title: "Real-Time Tracker",
     image: project3,
     description:
-      "I developed a Meesho-inspired e-commerce platform using HTML and CSS. The platform mimics the layout and functionality of Meesho, offering users a similar shopping experience. Key features include product display, navigation, and shopping functionalities, just like in the original Meesho app.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "I designed a real-time tracker, similar to the systems used by Swiggy and Zomato, to monitor user (client) and server locations. This project was built using Express.js and Node.js for efficient client-server communication.",
+    technologies: ["HTML", "CSS", "Socketio", "Express", "Node"],
   },
 ];
 
 export const CONTACT = {
   address: "45-12-5/1 Vijayawada, India, 520001 ",
-  phoneNo: "+91 98488 53325 ",
+  phoneNo: "+91 98488 53325",
   email: "battulamanojvarma9848@gmail.com",
 };
